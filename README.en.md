@@ -1,5 +1,7 @@
 # Global Filter Demo
 
+English | [中文](README.md)
+
 A global filter demonstration project.
 
 ## Project Overview

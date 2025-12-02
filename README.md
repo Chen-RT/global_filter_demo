@@ -1,5 +1,7 @@
 # Global Filter Demo
 
+[English](README.en.md) | 中文
+
 一个全局过滤器演示项目。
 
 ## 项目简介
